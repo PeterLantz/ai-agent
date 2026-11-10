@@ -1,0 +1,11 @@
+{
+  "languages": {
+    "Python": {
+      "format_on_save": "on",
+      "code_actions_on_save": {
+        "source.organizeImports.ruff": true,
+        "source.fixAll.ruff": true
+      }
+    }
+  }
+}
